@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemoryGame</string>
+    <string name="txt_title">Memory Game</string>
+    <string name="txt_play">Play</string>
+    <string name="txt_start">Start</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_end">End</string>
+    <string name="txt_a_score">Accumulated Score:</string>
+    <string name="txt_score">Score:</string>
+    <string name="txt_level">Level:</string>
+    <string name="txt_val0">0</string>
+</resources>
