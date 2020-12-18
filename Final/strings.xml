@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rabbit_Survival</string>
+    <string name="txt_rabbit">Rabbit Survival</string>
+    <string name="txt_play">Play</string>
+    <string name="txt_highScore">High Score: 0</string>
+    <string name="txt_touch">Touch</string>
+    <string name="txt_accelerometer">Accelerometer</string>
+</resources>
